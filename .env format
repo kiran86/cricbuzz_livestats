@@ -1,0 +1,7 @@
+# This file should be in your .gitignore to keep secrets safe.
+# Replace with your actual RapidAPI key from https://rapidapi.com/cricbuzz/api/cricbuzz-cricket
+CRICBUZZ_API_KEY=""
+CRICBUZZ_API_HOST=""
+
+# You can also override the default URL if needed
+CRICBUZZ_API_URL=""
