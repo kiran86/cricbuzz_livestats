@@ -1,0 +1,139 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "International",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11733,
+            "seriesName": "New Zealand tour of Bangladesh, 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 150107,
+                  "seriesId": 11733,
+                  "seriesName": "New Zealand tour of Bangladesh, 2026",
+                  "matchDesc": "3rd ODI",
+                  "matchFormat": "ODI",
+                  "startDate": "1776920400000",
+                  "endDate": "1776949200000",
+                  "state": "In Progress",
+                  "status": "New Zealand opt to bowl",
+                  "team1": {
+                    "teamId": 6,
+                    "teamName": "Bangladesh",
+                    "teamSName": "BAN",
+                    "imageId": 776210
+                  },
+                  "team2": {
+                    "teamId": 13,
+                    "teamName": "New Zealand",
+                    "teamSName": "NZ",
+                    "imageId": 776333
+                  },
+                  "venueInfo": {
+                    "id": 93,
+                    "ground": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium",
+                    "city": "Chattogram",
+                    "timezone": "+06:00",
+                    "latitude": "22.355898",
+                    "longitude": "91.767766"
+                  },
+                  "currBatTeamId": 6,
+                  "seriesStartDt": "1776384000000",
+                  "seriesEndDt": "1777852800000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "In Progress"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 228,
+                      "wickets": 5,
+                      "overs": 44.3
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Domestic",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 11749,
+            "seriesName": "New Zealand A tour of Sri Lanka, 2026",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 150338,
+                  "seriesId": 11749,
+                  "seriesName": "New Zealand A tour of Sri Lanka, 2026",
+                  "matchDesc": "2nd unofficial Test",
+                  "matchFormat": "TEST",
+                  "startDate": "1776916800000",
+                  "endDate": "1777201200000",
+                  "state": "In Progress",
+                  "status": "Day 1: 2nd Session",
+                  "team1": {
+                    "teamId": 80,
+                    "teamName": "New Zealand A",
+                    "teamSName": "NZA",
+                    "imageId": 776336
+                  },
+                  "team2": {
+                    "teamId": 43,
+                    "teamName": "Sri Lanka A",
+                    "teamSName": "SLA",
+                    "imageId": 776263
+                  },
+                  "venueInfo": {
+                    "id": 255,
+                    "ground": "Mahinda Rajapaksa International Stadium",
+                    "city": "Hambantota",
+                    "timezone": "+05:30",
+                    "latitude": "6.353636",
+                    "longitude": "81.026801"
+                  },
+                  "currBatTeamId": 80,
+                  "seriesStartDt": "1775347200000",
+                  "seriesEndDt": "1777334400000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "In Progress"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 139,
+                      "wickets": 2,
+                      "overs": 36.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "matchType": [
+      "International",
+      "League",
+      "Domestic",
+      "Women"
+    ]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1776932940"
+}
